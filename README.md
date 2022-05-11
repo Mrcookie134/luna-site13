@@ -1,5 +1,5 @@
-# OldWebsite
-This is the Legacy Website for Disconnect the Discord Bot.
+# Luna Site
+site do bot Luna se for usar esse template use no Glitch pois e mais fácil de programar
 
-## View the old website here!
-https://disconnectdiscordbot.github.io/OldWebsite/
+## veja como fica no site
+https://luna13.site
